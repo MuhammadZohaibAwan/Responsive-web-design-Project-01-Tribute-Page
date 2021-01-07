@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:  Helvetica;
+}
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+}
+
+.subText{
+
+   font-size: 1rem;
+    text-align: center;
+}
+
+img{
+ display: block;
+ max-width: 50%;
+ margin: auto;
+ border-radius: 5%;
+ box-shadow: 5px 5px 3px yellowgreen;
+}
+
+#tribute-info {
+text-align: center;
+font-size: 1rem;
+padding-left: 40px;
+padding-right: 40px;
+  padding-top: 10px;
+
+
+}
+
+
+
+
+figcaption {
+    text-align: center;
+font-size: 1rem;
+padding-top: 20px;
+
+padding-left: 40px;
+padding-right: 40px;
+}
+
+.linkDiv{
+    text-align: center;
+    padding-top: 10px;
+
+padding-left: 40px;
+padding-right: 40px;
+font-size: 1rem;
+}
+
+.linkDiv a{
+    font-size: 1rem;
+}
+
+
